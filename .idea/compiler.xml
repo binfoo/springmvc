@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="springmvc" />
+        <module name="Test1-DI" />
+        <module name="Test10-TaskExecutor" />
+        <module name="Test11-Scheduled" />
+        <module name="Test12-Conditional" />
+        <module name="Test13-GroupAnno" />
+        <module name="Test14-Test" />
+        <module name="Test15-FileUpload" />
+        <module name="Test15-SpringMVC1" />
+        <module name="Test15-SpringMVC2" />
+        <module name="Test15-SpringMVC3" />
+        <module name="test16-mystarter" />
+        <module name="test17-Thymeleaf1" />
+        <module name="Test2" />
+        <module name="Test3-AOP" />
+        <module name="Test4-Scope" />
+        <module name="Test5-EL" />
+        <module name="Test6-BeanLiftCycle" />
+        <module name="Test7-Profile" />
+        <module name="Test8-Event" />
+        <module name="Test9-Aware" />
+        <module name="Test9-BeanLiftCycle" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="springmvc" target="1.8" />
+      <module name="Test1-DI" target="1.8" />
+      <module name="Test10-TaskExecutor" target="1.8" />
+      <module name="Test11-Scheduled" target="1.8" />
+      <module name="Test12-Conditional" target="1.8" />
+      <module name="Test13-GroupAnno" target="1.8" />
+      <module name="Test14-Test" target="1.8" />
+      <module name="Test15-FileUpload" target="1.8" />
+      <module name="Test15-SpringMVC1" target="1.8" />
+      <module name="Test15-SpringMVC2" target="1.8" />
+      <module name="Test15-SpringMVC3" target="1.8" />
+      <module name="test16-mystarter" target="1.8" />
+      <module name="test17-Thymeleaf1" target="1.8" />
+      <module name="Test2" target="1.8" />
+      <module name="Test3-AOP" target="1.8" />
+      <module name="Test4-Scope" target="1.8" />
+      <module name="Test5-EL" target="1.8" />
+      <module name="Test6-BeanLiftCycle" target="1.8" />
+      <module name="Test7-Profile" target="1.8" />
+      <module name="Test8-Event" target="1.8" />
+      <module name="Test9-Aware" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="EclipseCompilerSettings">
+    <option name="PROCEED_ON_ERROR" value="false" />
+  </component>
+</project>

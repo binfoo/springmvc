@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Test1-DI/Test1-DI.iml" filepath="$PROJECT_DIR$/Test1-DI/Test1-DI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test10-TaskExecutor/Test10-TaskExecutor.iml" filepath="$PROJECT_DIR$/Test10-TaskExecutor/Test10-TaskExecutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test11-Scheduled/Test11-Scheduled.iml" filepath="$PROJECT_DIR$/Test11-Scheduled/Test11-Scheduled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test12-Conditional/Test12-Conditional.iml" filepath="$PROJECT_DIR$/Test12-Conditional/Test12-Conditional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test13-GroupAnno/Test13-GroupAnno.iml" filepath="$PROJECT_DIR$/Test13-GroupAnno/Test13-GroupAnno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test14-Test/Test14-Test.iml" filepath="$PROJECT_DIR$/Test14-Test/Test14-Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test15-FileUpload/Test15-FileUpload.iml" filepath="$PROJECT_DIR$/Test15-FileUpload/Test15-FileUpload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test15-SpringMVC1/Test15-SpringMVC1.iml" filepath="$PROJECT_DIR$/Test15-SpringMVC1/Test15-SpringMVC1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test15-SpringMVC2/Test15-SpringMVC2.iml" filepath="$PROJECT_DIR$/Test15-SpringMVC2/Test15-SpringMVC2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test15-SpringMVC3/Test15-SpringMVC3.iml" filepath="$PROJECT_DIR$/Test15-SpringMVC3/Test15-SpringMVC3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test2/Test2.iml" filepath="$PROJECT_DIR$/Test2/Test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test3-AOP/Test3-AOP.iml" filepath="$PROJECT_DIR$/Test3-AOP/Test3-AOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test4-Scope/Test4-Scope.iml" filepath="$PROJECT_DIR$/Test4-Scope/Test4-Scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test5-EL/Test5-EL.iml" filepath="$PROJECT_DIR$/Test5-EL/Test5-EL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test6-BeanLiftCycle/Test6-BeanLiftCycle.iml" filepath="$PROJECT_DIR$/Test6-BeanLiftCycle/Test6-BeanLiftCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test7-Profile/Test7-Profile.iml" filepath="$PROJECT_DIR$/Test7-Profile/Test7-Profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test8-Event/Test8-Event.iml" filepath="$PROJECT_DIR$/Test8-Event/Test8-Event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test9-Aware/Test9-Aware.iml" filepath="$PROJECT_DIR$/Test9-Aware/Test9-Aware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc.iml" filepath="$PROJECT_DIR$/springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test16-mystarter/test16-mystarter.iml" filepath="$PROJECT_DIR$/test16-mystarter/test16-mystarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test17-Thymeleaf1/test17-Thymeleaf1.iml" filepath="$PROJECT_DIR$/test17-Thymeleaf1/test17-Thymeleaf1.iml" />
+    </modules>
+  </component>
+</project>

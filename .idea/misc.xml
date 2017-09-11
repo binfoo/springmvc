@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Test1-DI/pom.xml" />
+        <option value="$PROJECT_DIR$/Test2/pom.xml" />
+        <option value="$PROJECT_DIR$/Test3-AOP/pom.xml" />
+        <option value="$PROJECT_DIR$/Test4-Scope/pom.xml" />
+        <option value="$PROJECT_DIR$/Test5-EL/pom.xml" />
+        <option value="$PROJECT_DIR$/Test9-BeanLiftCycle/pom.xml" />
+        <option value="$PROJECT_DIR$/Test7-Profile/pom.xml" />
+        <option value="$PROJECT_DIR$/Test8-Event/pom.xml" />
+        <option value="$PROJECT_DIR$/Test9-Aware/pom.xml" />
+        <option value="$PROJECT_DIR$/Test10-TaskExecutor/pom.xml" />
+        <option value="$PROJECT_DIR$/Test11-Scheduled/pom.xml" />
+        <option value="$PROJECT_DIR$/Test12-Conditional/pom.xml" />
+        <option value="$PROJECT_DIR$/Test13-GroupAnno/pom.xml" />
+        <option value="$PROJECT_DIR$/Test14-Test/pom.xml" />
+        <option value="$PROJECT_DIR$/Test15-SpringMVC1/pom.xml" />
+        <option value="$PROJECT_DIR$/Test15-SpringMVC2/pom.xml" />
+        <option value="$PROJECT_DIR$/Test15-FileUpload/pom.xml" />
+        <option value="$PROJECT_DIR$/Test15-SpringMVC3/pom.xml" />
+        <option value="$PROJECT_DIR$/test16-mystarter/pom.xml" />
+        <option value="$PROJECT_DIR$/test17-Thymeleaf1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
