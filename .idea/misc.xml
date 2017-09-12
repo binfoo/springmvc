@@ -30,6 +30,9 @@
         <option value="$PROJECT_DIR$/Test15-SpringMVC3/pom.xml" />
         <option value="$PROJECT_DIR$/test16-mystarter/pom.xml" />
         <option value="$PROJECT_DIR$/test17-Thymeleaf1/pom.xml" />
+        <option value="$PROJECT_DIR$/test20-WebSocket/pom.xml" />
+        <option value="$PROJECT_DIR$/test18-JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/test19-Restful/pom.xml" />
       </list>
     </option>
   </component>

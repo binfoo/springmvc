@@ -35,7 +35,10 @@
         <module name="Test15-SpringMVC3" />
         <module name="test16-mystarter" />
         <module name="test17-Thymeleaf1" />
+        <module name="test18-JPA" />
+        <module name="test19-Restful" />
         <module name="Test2" />
+        <module name="test20-WebSocket" />
         <module name="Test3-AOP" />
         <module name="Test4-Scope" />
         <module name="Test5-EL" />
@@ -60,7 +63,10 @@
       <module name="Test15-SpringMVC3" target="1.8" />
       <module name="test16-mystarter" target="1.8" />
       <module name="test17-Thymeleaf1" target="1.8" />
+      <module name="test18-JPA" target="1.8" />
+      <module name="test19-Restful" target="1.8" />
       <module name="Test2" target="1.8" />
+      <module name="test20-WebSocket" target="1.8" />
       <module name="Test3-AOP" target="1.8" />
       <module name="Test4-Scope" target="1.8" />
       <module name="Test5-EL" target="1.8" />

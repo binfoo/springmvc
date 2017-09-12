@@ -23,6 +23,9 @@
       <module fileurl="file://$PROJECT_DIR$/springmvc.iml" filepath="$PROJECT_DIR$/springmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/test16-mystarter/test16-mystarter.iml" filepath="$PROJECT_DIR$/test16-mystarter/test16-mystarter.iml" />
       <module fileurl="file://$PROJECT_DIR$/test17-Thymeleaf1/test17-Thymeleaf1.iml" filepath="$PROJECT_DIR$/test17-Thymeleaf1/test17-Thymeleaf1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test18-JPA/test18-JPA.iml" filepath="$PROJECT_DIR$/test18-JPA/test18-JPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test19-Restful/test19-Restful.iml" filepath="$PROJECT_DIR$/test19-Restful/test19-Restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test20-WebSocket/test20-WebSocket.iml" filepath="$PROJECT_DIR$/test20-WebSocket/test20-WebSocket.iml" />
     </modules>
   </component>
 </project>
