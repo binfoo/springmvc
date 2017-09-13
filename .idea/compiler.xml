@@ -39,6 +39,9 @@
         <module name="test19-Restful" />
         <module name="Test2" />
         <module name="test20-WebSocket" />
+        <module name="Test21-Transaction" />
+        <module name="Test22-Cache" />
+        <module name="Test23-Security" />
         <module name="Test3-AOP" />
         <module name="Test4-Scope" />
         <module name="Test5-EL" />
@@ -67,6 +70,9 @@
       <module name="test19-Restful" target="1.8" />
       <module name="Test2" target="1.8" />
       <module name="test20-WebSocket" target="1.8" />
+      <module name="Test21-Transaction" target="1.8" />
+      <module name="Test22-Cache" target="1.8" />
+      <module name="Test23-Security" target="1.8" />
       <module name="Test3-AOP" target="1.8" />
       <module name="Test4-Scope" target="1.8" />
       <module name="Test5-EL" target="1.8" />
