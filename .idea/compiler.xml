@@ -22,6 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="MyBlog" />
         <module name="springmvc" />
         <module name="Test1-DI" />
         <module name="Test10-TaskExecutor" />
@@ -53,6 +54,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="MyBlog" target="1.5" />
       <module name="springmvc" target="1.8" />
       <module name="Test1-DI" target="1.8" />
       <module name="Test10-TaskExecutor" target="1.8" />
