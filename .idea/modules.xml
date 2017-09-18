@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/Test21-Transaction/Test21-Transaction.iml" filepath="$PROJECT_DIR$/Test21-Transaction/Test21-Transaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test22-Cache/Test22-Cache.iml" filepath="$PROJECT_DIR$/Test22-Cache/Test22-Cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test23-Security/Test23-Security.iml" filepath="$PROJECT_DIR$/Test23-Security/Test23-Security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test24-mybatis2/Test24-mybatis2.iml" filepath="$PROJECT_DIR$/Test24-mybatis2/Test24-mybatis2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test3-AOP/Test3-AOP.iml" filepath="$PROJECT_DIR$/Test3-AOP/Test3-AOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test4-Scope/Test4-Scope.iml" filepath="$PROJECT_DIR$/Test4-Scope/Test4-Scope.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test5-EL/Test5-EL.iml" filepath="$PROJECT_DIR$/Test5-EL/Test5-EL.iml" />
@@ -30,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/test18-JPA/test18-JPA.iml" filepath="$PROJECT_DIR$/test18-JPA/test18-JPA.iml" />
       <module fileurl="file://$PROJECT_DIR$/test19-Restful/test19-Restful.iml" filepath="$PROJECT_DIR$/test19-Restful/test19-Restful.iml" />
       <module fileurl="file://$PROJECT_DIR$/test20-WebSocket/test20-WebSocket.iml" filepath="$PROJECT_DIR$/test20-WebSocket/test20-WebSocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test24-mybatis3/test24-mybatis3.iml" filepath="$PROJECT_DIR$/test24-mybatis3/test24-mybatis3.iml" />
     </modules>
   </component>
 </project>

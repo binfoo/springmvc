@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <properties resource="db.properties"/>
+    <typeAliases>
+        <typeAlias type="org.binfoo.bean.User" alias="user"/>
+    </typeAliases>
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="${driver}"/>
+                <property name="url" value="${url}"/>
+                <property name="username" value="${username}"/>
+                <property name="password" value="${password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+    <mappers>
+        <mapper resource="userMapper.xml"/>
+    </mappers>
+</configuration>
+
+
+<!--1.第6行我们引入刚刚创建的db.properties文件，方便我们在配置数据库的时候通过${XXX}来直接引用其中的值。
+
+2.第7-9行给我们的User实体类取一个别名，这样在Mapper的配置文件中我们就可以直接使用这里的别名了。
+
+3.从第10行开始配置我们的mybatis运行环境，我们可以在environments节点中配置多个environment，比如开发环境下的environment，生产环境下的environment，然后在environments中通过default属性来选择你要使用哪一种环境。
+
+4.14-17行配置数据库相关属性，通过${XXX}来直接引用db.properties中的值。
+
+5.第21行到23行配置映射器Mapper，下面我们来说说如何创建Mapper-->
