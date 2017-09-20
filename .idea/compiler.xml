@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="MyBlog" />
+        <module name="shiro1" />
         <module name="springmvc" />
         <module name="Test1-DI" />
         <module name="Test10-TaskExecutor" />
@@ -44,6 +45,8 @@
         <module name="Test22-Cache" />
         <module name="Test23-Security" />
         <module name="test24-mybatis3" />
+        <module name="test24-mybatis4" />
+        <module name="test24-mybatis5" />
         <module name="Test3-AOP" />
         <module name="Test4-Scope" />
         <module name="Test5-EL" />
@@ -56,6 +59,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="MyBlog" target="1.5" />
+      <module name="shiro1" target="1.8" />
       <module name="springmvc" target="1.8" />
       <module name="Test1-DI" target="1.8" />
       <module name="Test10-TaskExecutor" target="1.8" />
@@ -76,7 +80,9 @@
       <module name="Test21-Transaction" target="1.8" />
       <module name="Test22-Cache" target="1.8" />
       <module name="Test23-Security" target="1.8" />
-      <module name="test24-mybatis3" target="1.8" />
+      <module name="test24-mybatis3" target="1.5" />
+      <module name="test24-mybatis4" target="1.5" />
+      <module name="test24-mybatis5" target="1.5" />
       <module name="Test3-AOP" target="1.8" />
       <module name="Test4-Scope" target="1.8" />
       <module name="Test5-EL" target="1.8" />

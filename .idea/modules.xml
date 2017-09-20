@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/Test7-Profile/Test7-Profile.iml" filepath="$PROJECT_DIR$/Test7-Profile/Test7-Profile.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test8-Event/Test8-Event.iml" filepath="$PROJECT_DIR$/Test8-Event/Test8-Event.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test9-Aware/Test9-Aware.iml" filepath="$PROJECT_DIR$/Test9-Aware/Test9-Aware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro1/shiro1.iml" filepath="$PROJECT_DIR$/shiro1/shiro1.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc.iml" filepath="$PROJECT_DIR$/springmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/test16-mystarter/test16-mystarter.iml" filepath="$PROJECT_DIR$/test16-mystarter/test16-mystarter.iml" />
       <module fileurl="file://$PROJECT_DIR$/test17-Thymeleaf1/test17-Thymeleaf1.iml" filepath="$PROJECT_DIR$/test17-Thymeleaf1/test17-Thymeleaf1.iml" />
@@ -32,6 +33,8 @@
       <module fileurl="file://$PROJECT_DIR$/test19-Restful/test19-Restful.iml" filepath="$PROJECT_DIR$/test19-Restful/test19-Restful.iml" />
       <module fileurl="file://$PROJECT_DIR$/test20-WebSocket/test20-WebSocket.iml" filepath="$PROJECT_DIR$/test20-WebSocket/test20-WebSocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/test24-mybatis3/test24-mybatis3.iml" filepath="$PROJECT_DIR$/test24-mybatis3/test24-mybatis3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test24-mybatis4/test24-mybatis4.iml" filepath="$PROJECT_DIR$/test24-mybatis4/test24-mybatis4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test24-mybatis5/test24-mybatis5.iml" filepath="$PROJECT_DIR$/test24-mybatis5/test24-mybatis5.iml" />
     </modules>
   </component>
 </project>
